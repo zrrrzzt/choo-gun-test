@@ -17,7 +17,7 @@
     "choo-service-worker": "2.4.0",
     "gun": "0.9.998",
     "sheetify": "7.3.2",
-    "tachyons": "4.9.1"
+    "tachyons": "4.10.0"
   },
   "devDependencies": {
     "bankai": "9.14.0",
