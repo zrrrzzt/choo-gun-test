@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "bankai": "9.14.0",
-    "choo-scaffold": "1.1.2",
+    "choo-scaffold": "1.2.0",
     "dependency-check": "3.1.0",
     "standard": "11.0.1"
   },
