@@ -16,7 +16,7 @@
     "choo-devtools": "2.5.1",
     "choo-service-worker": "2.4.0",
     "gun": "0.9.9992",
-    "sheetify": "7.3.2",
+    "sheetify": "7.3.3",
     "tachyons": "4.10.0"
   },
   "devDependencies": {
