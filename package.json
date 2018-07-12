@@ -12,7 +12,7 @@
     "deploy": "npm run build && now --static dist/ --name chooguntest && now alias"
   },
   "dependencies": {
-    "choo": "6.12.1",
+    "choo": "6.13.0",
     "choo-devtools": "2.5.1",
     "choo-service-worker": "2.4.0",
     "gun": "0.9.9994",
