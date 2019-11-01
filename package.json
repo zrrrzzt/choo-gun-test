@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "choo": "7.0.0",
-    "choo-devtools": "3.0.2",
+    "choo-devtools": "3.0.3",
     "choo-service-worker": "3.0.0",
     "gun": "0.2019.930",
     "sheetify": "8.0.0",
