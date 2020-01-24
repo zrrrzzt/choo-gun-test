@@ -15,7 +15,7 @@
     "choo": "7.1.0",
     "choo-devtools": "3.0.3",
     "choo-service-worker": "3.0.0",
-    "gun": "0.2020.115",
+    "gun": "0.2020.116",
     "sheetify": "8.0.0",
     "tachyons": "4.11.1"
   },
