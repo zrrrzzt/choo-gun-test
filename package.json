@@ -23,7 +23,7 @@
     "bankai": "9.15.3",
     "choo-scaffold": "1.2.0",
     "dependency-check": "4.1.0",
-    "standard": "16.0.4"
+    "standard": "17.0.0"
   },
   "now": {
     "name": "chooguntest",
